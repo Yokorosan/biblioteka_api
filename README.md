@@ -32,7 +32,11 @@ pip install -r requirements.txt
 4. Run your server.
 
 Extra: After Running the server u can make use of the documentation made by the drf-spetacular extension.
-REDOC: localhost:8000/api/schema/redoc/
-SWAGGER UI: localhost:8000/api/schema/swagger-ui/
+```
+#REDOC: 
+localhost:8000/api/schema/redoc/
+#SWAGGER UI: 
+localhost:8000/api/schema/swagger-ui/
+```
 
 Hope u have a wonderful day!
