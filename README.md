@@ -9,7 +9,8 @@ It's a very scalable api that can be used as base for more complex aplication.
 
 
 To Make use:
-1- Set a virtual environment
+<br>
+1. Set a virtual environment
 ```bash
 python -m venv venv
 ```
@@ -29,3 +30,9 @@ pip install -r requirements.txt
 ```
 
 4. Run your server.
+
+Extra: After Running the server u can make use of the documentation made by the drf-spetacular extension.
+REDOC: localhost:8000/api/schema/redoc/
+SWAGGER UI: localhost:8000/api/schema/swagger-ui/
+
+Hope u have a wonderful day!
