@@ -35,6 +35,7 @@ Extra: After Running the server u can make use of the documentation made by the 
 ```
 #REDOC: 
 localhost:8000/api/schema/redoc/
+
 #SWAGGER UI: 
 localhost:8000/api/schema/swagger-ui/
 ```
