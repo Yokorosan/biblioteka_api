@@ -6,3 +6,26 @@ From the non authenticated users they can only consult specific books and or the
 There's a function that periodicaly verify the database to see if there's any user that are late or bound to be late with a book devolution, and send an email till they regularize their situation.
 
 It's a very scalable api that can be used as base for more complex aplication.
+
+
+To Make use:
+1- Set a virtual environment
+```bash
+python -m venv venv
+```
+
+2. Activate it:
+```bash
+# linux:
+source venv/bin/activate
+
+# windows:
+.\venv\Scripts\activate
+```
+
+3. Install the Dependencies
+```
+pip install -r requirements.txt
+```
+
+4. Run your server.
